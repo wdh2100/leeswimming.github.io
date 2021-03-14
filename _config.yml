@@ -22,11 +22,12 @@ sass:
 # User settings
 username: DoHyeong Woo
 user_title: Front-End Developer
-user_description: >
-  Hello :D, I'm DoHyeong Woo, based in South Korea
-  I am a passionate and creative Front-end Developer
+user_description_kor: >
   저는 프론트 엔드 개발자 우도형입니다. 새롭고 신기하고 흥미로운걸 좋아하고 함께 성장하는 문화를 좋아합니다.
   이것 저것 많이 재미있고 즐겁게 살아가고 싶습니다.
+user_description_eng: >
+  Hello 😊, I'm DoHyeong Woo, based in Korea.
+  I am a passionate and creative Front-end Developer.
 
 email: wdh2100@gmail.com
 linkedin: 도형-우-007b57105
