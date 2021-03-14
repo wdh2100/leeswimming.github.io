@@ -1,8 +1,7 @@
 # Site settings
-title: Suyoung Lee
-description: Suyoung Lee / 이수영. Ph.D. student @KAIST WSP Lab.
-url: https://leeswimming.com
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
+title: DoHyeong Woo
+description: DoHyeong Woo / 우도형. Front-End Developer
+url: https://wdh2100.github.io/
 
 timezone:          Asia/Seoul
 markdown:          kramdown
@@ -21,18 +20,12 @@ sass:
   sass_dir: _sass
 
 # User settings
-username: Suyoung Lee
-user_title: Security Researcher
+username: DoHyeong Woo
+user_title: Front-End Developer
 user_description: >
-  I am a Ph.D. student <a href="https://wsp-lab.github.io/" target="_blank">
-  @KAIST WSP Lab</a>. My primary research interests lie in the area of finding,
-  analyzing, and patching software vulnerabilities. In particular, I am
-  interested in automating these steps by leveraging recent advances in machine
-  learning. Thus, the intersection of various fields including but not limited
-  to computer security, software engineering, and machine learning is of my
-  particular interest.
-email: suyoung.lee@kaist.ac.kr
-twitter: leeswimming
-github: leeswimming
-facebook: leeswimming
-# gplus_username:  lorem_ipsum
+  저는 프론트 엔드 개발자 우도형입니다. 새롭고 신기하고 흥미로운걸 좋아하고 함께 성장하는 문화를 좋아합니다.
+
+email: wdh2100@gmail.com
+twitter: Dohwoo
+github: wdh2100
+facebook: wdh2100
