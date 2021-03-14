@@ -1,0 +1,26 @@
+<div class="user-details">
+  <h1> Projects </h1>
+</div>
+
+<div class="row">
+  <div class="col">
+    <ol>
+      {% for work in site.data.work %}
+        <li>
+          <strong>
+            {{work.title}} <br>
+          </strong>
+          {{work.venue}} <br>
+          {{work.role}}, {{work.year}} <br>
+          {{work.skill}}<br>
+          {% if work.link %}
+            [<a href="{{work.link}}" target="_blank">Link</a>]
+          {% endif %}
+          {% if forloop.last == false %}
+            <br><br>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ol>
+  </div>
+</div>

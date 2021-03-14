@@ -1,0 +1,29 @@
+- title: "Admin Portal created using JSP"
+  venue: Samsung Electronics
+  role: Front-end, Back-end, Maintainer
+  skill: JSP, SpringMVC, Mybatis, AWS, Git
+  year: 2017 ~ 2018
+
+- title: "Admin Portal created using React"
+  venue: Samsung Electronics
+  role: Front-end, Back-end, Architect
+  skill: React, Mobx, Webpack, Babel, SpringBoot, Mybatis, AWS, Git
+  year: 2017 ~
+
+- title: "Admin Portal created using Vue"
+  venue: Samsung Electronics
+  role: Front-end, Back-end, Maintainer
+  skill: Vue, Webpack, Babel, SpringBoot, Mybatis, AWS, Git
+  year: 2021 ~
+
+- title: "Jenkins Deployment System"
+  venue: Samsung Electronics
+  role: Dev Ops
+  skill: Jenkins, Shell, AWS, Git, Github
+  year: 2018 ~ 2020
+
+- title: "Circle CI, Spinnaker Deployment System"
+  venue: Samsung Electronics
+  role: Dev Ops
+  skill: Circle CI, Spinnaker, Shell, Docker, Kubernetes, AWS, Jira, Git, Github
+  year: 2019 ~ 2021
