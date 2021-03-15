@@ -12,7 +12,10 @@
           </strong>
           {{work.venue}} <br>
           {{work.role}}, {{work.year}} <br>
-          {{work.skill}}<br>
+          <b>Technology Stack</b> : {{work.skill}}<br>
+          {% if work.detail %}
+          {{work.detail}}<br>
+          {% endif %}
           {% if work.link %}
             [<a href="{{work.link}}" target="_blank">Link</a>]
           {% endif %}
