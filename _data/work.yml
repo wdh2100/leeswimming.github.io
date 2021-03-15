@@ -1,8 +1,7 @@
 - title: "mui-datatables"
   venue: openSources
   role: Front-end, Maintainer
-  detail: >
-  Materil-ui기반의 DataTable의 3.5.0이후 버전부터 maintainer로 활동하고 있습니다.
+  detail: Materil-ui기반의 DataTable의 3.5.0이후 버전부터 maintainer로 활동하고 있습니다.
   skill: React, Babel, Jest, Rollup
   year: 2019 ~
   link: https://github.com/gregnb/mui-datatables
@@ -10,16 +9,14 @@
 - title: "Admin Portal using JSP"
   venue: Samsung Electronics
   role: Front-end, Back-end, Maintainer
-  detail: >
-  SpringMVC(3.x)기반의 Back-End와 JSP와 Jquery로 이루어진 FrontEnd 웹사이트의 유지보수 담당
+  detail: SpringMVC(3.x)기반의 Back-End와 JSP와 Jquery로 이루어진 FrontEnd 웹사이트의 유지보수 담당
   skill: JSP, Jquery, SpringMVC, Mybatis, AWS, Git
   year: 2017 ~ 2018
 
 - title: "Admin Portal using React"
   venue: Samsung Electronics
   role: Front-end, Back-end, Architect
-  detail: >
-  SpringBoot(2.3.x)기반의 Back-End와 React(16.8), material-ui로 이루어진 SPA 웹사이트 제작
+  detail: SpringBoot(2.3.x)기반의 Back-End와 React(16.8), material-ui로 이루어진 SPA 웹사이트 제작
   skill: React, Mobx, Webpack, Babel, SpringBoot, Mybatis, AWS, Git
   year: 2017 ~
 
